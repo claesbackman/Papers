@@ -1,4 +1,4 @@
-# The Rhetoric of Decks
+ # The Rhetoric of Decks
 
 ## What This Document Is
 
